@@ -16,7 +16,8 @@
     "url": "https://github.com/msz/coin-prediction-check/issues"
   },
   "homepage": "https://github.com/msz/coin-prediction-check#readme",
-  "dependencies": {
-    "bulma": "^0.5.1"
+  "devDependencies": {
+    "bulma": "^0.5.1",
+    "webpack": "^3.5.5"
   }
 }
